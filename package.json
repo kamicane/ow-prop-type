@@ -1,0 +1,23 @@
+{
+  "name": "ow-prop-type",
+  "version": "0.0.0",
+  "description": "react prop-types validation with ow",
+  "keywords": [
+    "ow",
+    "prop-types",
+    "react",
+    "validation"
+  ],
+  "homepage": "https://github.com/kamicane/ow-prop-type#readme",
+  "bugs": "https://github.com/kamicane/ow-prop-type/issues",
+  "repository": "github:kamicane/ow-prop-type",
+  "license": "MIT",
+  "author": "Valerio Proietti <kamicane@gmail.com>",
+  "main": "index.js",
+  "dependencies": {
+    "ow": "^0.15.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
